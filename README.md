@@ -4,10 +4,11 @@ Este projeto consiste em criar um sistema bancário simples usando Java e Progra
 
 O sistema deve permitir que os clientes realizem as seguintes operações:
 
-Depósito
+-Depósito
 
-Saque
+-Saque
 
-Transferência entre contas da mesma instituição
+-Transferência entre contas da mesma instituição
+
 
 O objetivo principal é praticar conceitos de encapsulamento, herança, polimorfismo, construtores, métodos e regras de negócio.
