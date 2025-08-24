@@ -1,10 +1,9 @@
 # Banco-digital-POO
 
 
----
-##💰 Sistema Bancário em Java (POO)
+## 💰 Sistema Bancário em Java (POO)
 
-##📝 Descrição
+## 📝 Descrição
 
 Projeto de estudo que implementa um sistema bancário simples em Java, utilizando conceitos de Programação Orientada a Objetos (POO) como:
 
