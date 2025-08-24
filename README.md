@@ -1,14 +1,17 @@
 # Banco-digital-POO
 
-Este projeto consiste em criar um sistema bancário simples usando Java e Programação Orientada a Objetos (POO). O desafio propõe a abstração de um banco que oferece dois tipos de contas: Conta Corrente e Conta Poupança.
+💰 Sistema Bancário em Java (POO)
 
-O sistema deve permitir que os clientes realizem as seguintes operações:
+📝 Descrição
 
--Depósito
+Projeto de estudo que implementa um sistema bancário simples em Java, utilizando conceitos de Programação Orientada a Objetos (POO) como:
 
--Saque
+-Encapsulamento
 
--Transferência entre contas da mesma instituição
+-Herança
 
+-Polimorfismo
 
-O objetivo principal é praticar conceitos de encapsulamento, herança, polimorfismo, construtores, métodos e regras de negócio.
+Construtores e métodos
+
+O sistema oferece dois tipos de contas: Conta Corrente e Conta Poupança, com operações de depósito, saque e transferência entre contas.
